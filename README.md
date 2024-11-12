@@ -45,6 +45,3 @@ MultiResUNet, an enhanced U-Net model with multi-resolution blocks and residual 
 
 A web-based interface allows real-time skin lesion analysis for healthcare providers. Upload an image to get the segmented output in seconds.
 
----
-
-## Code Snippets
